@@ -240,3 +240,26 @@
   justify-content: center;
   gap: 2em;
 }
+
+/* FOOTER CONTACT WITH ME */
+
+#contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#contact h6 {
+  font-size: 2rem;
+  margin: 20px;
+}
+
+.contact-socials {
+  margin-bottom: 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+}
